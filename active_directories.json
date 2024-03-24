@@ -1,0 +1,80 @@
+[
+  {
+    "name": "ap3x"
+  },
+  {
+    "name": "ap3x/ap3x-backend"
+  },
+  {
+    "name": "ap3x/ap3x-backend/dist"
+  },
+  {
+    "name": "ap3x/ap3x-backend/dist/apps"
+  },
+  {
+    "name": "ap3x/ap3x-backend/dist/apps/auth"
+  },
+  {
+    "name": "tooling"
+  },
+  {
+    "name": "tooling/.git"
+  },
+  {
+    "name": "tooling/.git/hooks"
+  },
+  {
+    "name": "tooling/.git/info"
+  },
+  {
+    "name": "tooling/.git/logs"
+  },
+  {
+    "name": "tooling/.git/logs/refs"
+  },
+  {
+    "name": "tooling/.git/logs/refs/heads"
+  },
+  {
+    "name": "tooling/.git/logs/refs/remotes"
+  },
+  {
+    "name": "tooling/.git/logs/refs/remotes/origin"
+  },
+  {
+    "name": "tooling/.git/objects"
+  },
+  {
+    "name": "tooling/.git/objects/32"
+  },
+  {
+    "name": "tooling/.git/objects/52"
+  },
+  {
+    "name": "tooling/.git/objects/d9"
+  },
+  {
+    "name": "tooling/.git/objects/info"
+  },
+  {
+    "name": "tooling/.git/objects/pack"
+  },
+  {
+    "name": "tooling/.git/refs"
+  },
+  {
+    "name": "tooling/.git/refs/heads"
+  },
+  {
+    "name": "tooling/.git/refs/remotes"
+  },
+  {
+    "name": "tooling/.git/refs/remotes/origin"
+  },
+  {
+    "name": "tooling/.git/refs/tags"
+  },
+  {
+    "name": "tooling/dirscanner"
+  }
+]
